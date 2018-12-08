@@ -1,0 +1,29 @@
+_repo: Cicero-Letters-to-Atticus-v-I_58418
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Winstedt, Eric Otto
+    alias: Winstedt, E. O. (Eric Otto)
+    gutenberg_agent_id: '46046'
+    url: http://www.gutenberg.org/2009/agents/46046
+creator:
+  author:
+    agent_name: Cicero, Marcus Tullius
+    birthdate: -106
+    deathdate: -43
+    gutenberg_agent_id: '128'
+    url: http://www.gutenberg.org/2009/agents/128
+    wikipedia: http://en.wikipedia.org/wiki/Cicero
+description: ''
+gutenberg_issued: '2018-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cicero Letters to Atticus, v. I
+url: http://www.gutenberg.org/ebooks/58418
